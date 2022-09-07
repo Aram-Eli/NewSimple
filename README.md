@@ -1,4 +1,4 @@
-# Newsimple ⚡️ [![GitHub](https://img.shields.io/github/license/Aram-Eli/simplefolio?color=blue)](https://github.com/cobidev/simplefolio/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/cobidev/simplefolio) ![GitHub forks](https://img.shields.io/github/forks/cobidev/simplefolio)
+# Newsimple ⚡️ 
 
 ## A minimal portfolio template for Developers!
 
