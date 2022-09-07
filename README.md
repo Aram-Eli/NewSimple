@@ -1,7 +1,5 @@
 # Newsimple ⚡️ 
 
-## A minimal portfolio template for Developers!
-
 ## Features
 
 ⚡️ Modern UI Design + Reveal Animations\
