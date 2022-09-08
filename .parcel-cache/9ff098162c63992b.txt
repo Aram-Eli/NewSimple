@@ -29,11 +29,11 @@
 68/home/aram/Desktop/newsimple/simplefolio/src/scripts/scrollReveal.js1662401288485196806 0
 53/home/aram/Desktop/newsimple/simplefolio/src/index.js1662401288485196806 0
 44/home/aram/Desktop/newsimple/simplefolio/src1662401288485196806 1
-56/home/aram/Desktop/newsimple/simplefolio/dist/index.html1662523337505627938 0
+56/home/aram/Desktop/newsimple/simplefolio/dist/index.html1662664783692878939 0
 64/home/aram/Desktop/newsimple/simplefolio/dist/index.4a508c1d.css1662523591914944594 0
 66/home/aram/Desktop/newsimple/simplefolio/dist/project.f500882b.jpg1662511405680767159 0
 67/home/aram/Desktop/newsimple/simplefolio/dist/index.975ef6c8.js.map1662521431134830012 0
-45/home/aram/Desktop/newsimple/simplefolio/dist1662523591918944626 1
+45/home/aram/Desktop/newsimple/simplefolio/dist1662664783696878978 1
 61/home/aram/Desktop/newsimple/simplefolio/examples/example.png1662401288477196758 0
 61/home/aram/Desktop/newsimple/simplefolio/examples/example.gif1662401288477196758 0
 49/home/aram/Desktop/newsimple/simplefolio/examples1662401288477196758 1
@@ -1300,7 +1300,7 @@
 87/home/aram/Desktop/newsimple/simplefolio/node_modules/css-tree/lib/syntax/pseudo/has.js1662507903213762678 0
 100/home/aram/Desktop/newsimple/simplefolio/node_modules/@swc/helpers/src/_class_private_method_set.mjs1662508098439096461 0
 72/home/aram/Desktop/newsimple/simplefolio/node_modules/jquery/LICENSE.txt1662508099103101011 0
-55/home/aram/Desktop/newsimple/simplefolio/src/index.html1662523090949678560 0
+55/home/aram/Desktop/newsimple/simplefolio/src/index.html1662664777780818456 0
 77/home/aram/Desktop/newsimple/simplefolio/node_modules/weak-lru-cache/index.js1662508098011093528 0
 72/home/aram/Desktop/newsimple/simplefolio/node_modules/get-port/readme.md1662507914325838360 0
 80/home/aram/Desktop/newsimple/simplefolio/node_modules/css-tree/lib/syntax/pseudo1662507903285763170 1
